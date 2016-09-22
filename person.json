@@ -1,0 +1,22 @@
+﻿{
+    "person": [
+        {
+            "name": "马骁尧",
+            "sex": "male",
+            "age": 20,
+            "school": "haut"
+        },
+        {
+            "name": "tom",
+            "sex": "male",
+            "age": 63,
+            "school": "xinghua"
+        },
+        {
+            "name": "cat",
+            "sex": "male",
+            "age": 66,
+            "school": "beida"
+        }
+    ]
+}
