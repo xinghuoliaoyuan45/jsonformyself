@@ -1,0 +1,26 @@
+﻿
+-------------------------------一直发送 3秒 clearInterval后停止
+function show(){
+   $('.edit_area').html('需要发送的文字');
+   $(".edit_area").trigger($.Event("keydown", { keyCode: 13,ctrlKey: true}));
+   $('.btn_send').click();
+}
+var sh;
+sh=setInterval(show,3000);
+clearInterval(sh)
+--------------------------------------------定时发送只会发送一次
+
+ function settime_send(){
+    if(new Date().toLocaleString().indexOf('2016/10/16 上午12:25:22')===0) 
+    {
+         $('.edit_area').html('需要发送的文字');
+         $(".edit_area").trigger($.Event("keydown", { keyCode: 13,ctrlKey: true}));
+         $('.btn_send').click();
+    }
+}
+var time_send;
+time_send=setInterval(settime_send,1000);
+
+----------------------------------------
+
+
