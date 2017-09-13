@@ -1,70 +1,70 @@
 ﻿[
     {
         "name": "Head First C#",
-        "url": "http://s4.51cto.com/wyfs02/M01/81/06/wKiom1dFxmvyv2JXAAAzqmJaRUE919.jpg-s_888558856.jpg",
+        "url": "https://facebook.github.io/react/img/logo_og.png",
         "desc": "此书就提供了很多可供读者亲自动手的项目.这些项目不但易记,易参与,还易扩展,举一个例子,蜂窝管理系统的项目提关于在接口和继承方面的改善代码,可以避免你的重复性工作",
         "price": 67,
         "class": "c#"
     },
     {
         "name": "Programming C# 5.0",
-        "url": "http://s2.51cto.com/wyfs02/M02/81/05/wKioL1dFx2GBlBPYAAAmoQ2AEM0167.jpg-s_3816423569.jpg",
+        "url": "https://facebook.github.io/react/img/logo_og.png",
         "desc": "作者将每一个概念都解释得非常清楚,还有特定概念的相关范例由于它涵盖了此编程语言的绝大多数范围,所以特别适合那些严谨的开发人员",
         "price": 58.6,
         "class": "c#"
     },
     {
         "name": "C# in Depth",
-        "url": "http://s4.51cto.com/wyfs02/M00/81/05/wKioL1dFx2DS45I9AAAdbTjUQ3g570.jpg-s_1364068689.jpg",
+        "url": "https://facebook.github.io/react/img/logo_og.png",
         "desc": "这本书主要为那些已具备一定的C#编程经验的开发人员而编写,和其他的编程",
         "price": 32,
         "class": "c#"
     },
     {
         "name": "深入浅出Node.js",
-        "url": "http://f.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=182496f6d3c8a786be2a4d085f32ae00/730e0cf3d7ca7bcb377df123bc096b63f624a8b3.jpg",
+        "url": "https://facebook.github.io/react/img/logo_og.png",
         "desc": "朴灵 的深入浅出看完了,好书一枚,每个章节中都能发现自己的一些知识盲点,学到了不少",
         "price": 50.5,
         "class": "node"
     },
     {
         "name": "Node.js实战",
-        "url": "http://h.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=1a77bab7e6dde711e7d244f09fd4a926/dbb44aed2e738bd47c09b883a28b87d6277ff95c.jpg",
+        "url": "https://facebook.github.io/react/img/logo_og.png",
         "desc": "从搭建Node开发环境，到一些简单的演示程序，到开发复杂应用程序所必不可少的异步编程",
         "price": 60.2,
         "class": "node"
     },
     {
         "name": "node即学即用",
-        "url": "http://d.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=7969a33fe9c4b7453494b010f7c7792a/2e2eb9389b504fc2a65e9513e7dde71190ef6da6.jpg",
+        "url": "https://facebook.github.io/react/img/logo_og.png",
         "desc": "内容介绍内容涉及跨服务器的并发连接、非阻塞I/O和事件驱动的编程、如何支持各种数据库和数据存",
         "price": 50.5,
         "class": "node"
     },
     {
         "name": "STL源码剖析",
-        "url": "http://d.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=d16bdb6313dfa9ecfd2e51115aeb903e/b03533fa828ba61e8b6b71504334970a314e59c3.jpg",
+        "url": "https://facebook.github.io/react/img/logo_og.png",
         "desc": "《STL源码剖析》是华中科技大学出版社2002年06月出版的书籍，作者是侯捷",
         "price": 55,
         "class": "c++"
     },
     {
         "name": "Swift权威指南",
-        "url": "http://h.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=d39cfa67309b033b2c88fbdc2df551ee/38dbb6fd5266d0160e92794b932bd40734fa35cd.jpg",
+        "url": "https://facebook.github.io/react/img/logo_og.png",
         "desc": "有了mackbook 才能玩这门语言 XCode,swift,苹果于2014年WWDC（苹果开发者大会）发布的新开发语言,可与Objective-C*共同运行于Mac OS和iOS平台，用于搭建基于苹果平台的应用程序。Swift是一款易学易用的编程语言，而且它还是第一套具有与脚本语言同样的表现力和趣味性的系统",
         "price": 98,
         "class": "swift"
     },
     {
         "name": "java完全自学手册",
-        "url": "http://b.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=b7123740d0160924dc25a51dec3c52c7/faf2b2119313b07ecb6f001e0cd7912396dd8cd1.jpg",
+        "url": "https://facebook.github.io/react/img/logo_og.png",
         "desc": "凑个图标的描述。编程这东西全靠自学,spring平台全家桶已经无敌了",
         "price": 45,
         "class": "java"
     },
     {
         "name": "Python核心编程",
-        "url": "http://f.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=9bed6b0fd0160924dc25a51dec3c52c7/faf2b2119313b07ee7905c510cd7912397dd8cbd.jpg",
+        "url": "https://facebook.github.io/react/img/logo_og.png",
         "desc": "Python是一种功能十分强大的面向对象编程语言,可以用于编写独立程序,快速脚本和复杂应用的原型本书适合Python初学者,以及已经入门但想继续学习和提高自身Python技巧的程序员",
         "price": 66,
         "class": "python"
