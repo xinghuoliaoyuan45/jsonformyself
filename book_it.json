@@ -23,28 +23,28 @@
     {
         "name": "深入浅出Node.js",
         "url": "http://f.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=182496f6d3c8a786be2a4d085f32ae00/730e0cf3d7ca7bcb377df123bc096b63f624a8b3.jpg",
-        "desc": "这本书我买了，我是买的无良淘宝的盗版的,不过已经束之高阁了,估计以后也不会有机会看了,不过书还是不错的,就是讲的太深了,我土鳖看不懂",
+        "desc": "朴灵 的深入浅出看完了,好书一枚,每个章节中都能发现自己的一些知识盲点,学到了不少",
         "price": 50.5,
         "class": "node"
     },
     {
         "name": "Node.js实战",
         "url": "http://h.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=1a77bab7e6dde711e7d244f09fd4a926/dbb44aed2e738bd47c09b883a28b87d6277ff95c.jpg",
-        "desc": "这本书本来想买结果没买成,一般 xx实战一般都讲的很好,国外人写的翻译的,原来买的spring 实战3版 给我的印象很深，JavaScript 是现在编程界的希望！",
+        "desc": "从搭建Node开发环境，到一些简单的演示程序，到开发复杂应用程序所必不可少的异步编程",
         "price": 60.2,
         "class": "node"
     },
     {
         "name": "node即学即用",
         "url": "http://d.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=7969a33fe9c4b7453494b010f7c7792a/2e2eb9389b504fc2a65e9513e7dde71190ef6da6.jpg",
-        "desc": "工大图书馆有,第三方模块讲的很好,这种书 很适合 边看书编写代码,下一个webstorm 边看 边打代码,乐趣无穷",
+        "desc": "内容介绍内容涉及跨服务器的并发连接、非阻塞I/O和事件驱动的编程、如何支持各种数据库和数据存",
         "price": 50.5,
         "class": "node"
     },
     {
         "name": "STL源码剖析",
         "url": "http://d.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=d16bdb6313dfa9ecfd2e51115aeb903e/b03533fa828ba61e8b6b71504334970a314e59c3.jpg",
-        "desc": "鬼玩意,寝室 数 本没打开过的STL源码剖析,真坑,不是说这个语言，这门语言还是伟大的",
+        "desc": "《STL源码剖析》是华中科技大学出版社2002年06月出版的书籍，作者是侯捷",
         "price": 55,
         "class": "c++"
     },
@@ -58,7 +58,7 @@
     {
         "name": "java完全自学手册",
         "url": "http://b.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=b7123740d0160924dc25a51dec3c52c7/faf2b2119313b07ecb6f001e0cd7912396dd8cd1.jpg",
-        "desc": "凑个图标的描述。编程这东西全靠自学",
+        "desc": "凑个图标的描述。编程这东西全靠自学,spring平台全家桶已经无敌了",
         "price": 45,
         "class": "java"
     },
