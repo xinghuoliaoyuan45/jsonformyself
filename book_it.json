@@ -1,5 +1,5 @@
 ﻿[
-    {
+    {   "id"    :1,
         "name": "Head First C#",
         "url": "https://facebook.github.io/react/img/logo_og.png",
         "desc": "此书就提供了很多可供读者亲自动手的项目.这些项目不但易记,易参与,还易扩展,举一个例子,蜂窝管理系统的项目提关于在接口和继承方面的改善代码,可以避免你的重复性工作",
@@ -7,6 +7,7 @@
         "class": "c#"
     },
     {
+        "id"    :2,
         "name": "Programming C# 5.0",
         "url": "https://facebook.github.io/react/img/logo_og.png",
         "desc": "作者将每一个概念都解释得非常清楚,还有特定概念的相关范例由于它涵盖了此编程语言的绝大多数范围,所以特别适合那些严谨的开发人员",
@@ -14,6 +15,7 @@
         "class": "c#"
     },
     {
+        "id"    :3,
         "name": "C# in Depth",
         "url": "https://facebook.github.io/react/img/logo_og.png",
         "desc": "这本书主要为那些已具备一定的C#编程经验的开发人员而编写,和其他的编程",
@@ -21,6 +23,7 @@
         "class": "c#"
     },
     {
+        "id"    :4,
         "name": "深入浅出Node.js",
         "url": "https://facebook.github.io/react/img/logo_og.png",
         "desc": "朴灵 的深入浅出看完了,好书一枚,每个章节中都能发现自己的一些知识盲点,学到了不少",
@@ -28,6 +31,7 @@
         "class": "node"
     },
     {
+        "id"    :5,
         "name": "Node.js实战",
         "url": "https://facebook.github.io/react/img/logo_og.png",
         "desc": "从搭建Node开发环境，到一些简单的演示程序，到开发复杂应用程序所必不可少的异步编程",
@@ -35,6 +39,7 @@
         "class": "node"
     },
     {
+        "id"    :6,
         "name": "node即学即用",
         "url": "https://facebook.github.io/react/img/logo_og.png",
         "desc": "内容介绍内容涉及跨服务器的并发连接、非阻塞I/O和事件驱动的编程、如何支持各种数据库和数据存",
@@ -42,6 +47,7 @@
         "class": "node"
     },
     {
+        "id"    :7,
         "name": "STL源码剖析",
         "url": "https://facebook.github.io/react/img/logo_og.png",
         "desc": "《STL源码剖析》是华中科技大学出版社2002年06月出版的书籍，作者是侯捷",
@@ -49,6 +55,7 @@
         "class": "c++"
     },
     {
+        "id"    :8,
         "name": "Swift权威指南",
         "url": "https://facebook.github.io/react/img/logo_og.png",
         "desc": "有了mackbook 才能玩这门语言 XCode,swift,苹果于2014年WWDC（苹果开发者大会）发布的新开发语言,可与Objective-C*共同运行于Mac OS和iOS平台，用于搭建基于苹果平台的应用程序。Swift是一款易学易用的编程语言，而且它还是第一套具有与脚本语言同样的表现力和趣味性的系统",
@@ -56,6 +63,7 @@
         "class": "swift"
     },
     {
+        "id"    :9,
         "name": "java完全自学手册",
         "url": "https://facebook.github.io/react/img/logo_og.png",
         "desc": "凑个图标的描述。编程这东西全靠自学,spring平台全家桶已经无敌了",
@@ -63,6 +71,7 @@
         "class": "java"
     },
     {
+        "id"    :10,
         "name": "Python核心编程",
         "url": "https://facebook.github.io/react/img/logo_og.png",
         "desc": "Python是一种功能十分强大的面向对象编程语言,可以用于编写独立程序,快速脚本和复杂应用的原型本书适合Python初学者,以及已经入门但想继续学习和提高自身Python技巧的程序员",
